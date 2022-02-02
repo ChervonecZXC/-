@@ -1,0 +1,53 @@
+body {
+	width: 1430px;
+	background: url("../img/фон2.png") no-repeat;
+	background-size:contain;
+	background-color: #715e7d;
+
+
+	font-family: Arial;
+	line-height: 1.5;
+	font-size: 18px;
+}
+
+.title {
+	font-size: 45px;
+	color: mintcream;
+}
+
+button {
+    display: inline-block;
+    font: 400 13.3333px Arial;
+    font-size: 20px;
+    text-align: center;
+    padding: 1px 6px;
+    background-color: Lavender;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkmagenta;
+
+}.oblozhka {
+	width: -150px;
+	margin: 0px auto;
+
+}.oblozhkafoto {
+	width: 250px;
+	height: 237px;
+}
+.title1 {
+	font-size: 40px;
+	color: #ee1620;
+	left: -150px;
+}
+a:link {
+	text-decoration: none;
+	font-family: Arial;
+}
+.cherta {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border-style: solid;
+    border-width: 0.75px;
+    position: relative;
+    border-color: darkgray;
+}
